@@ -18,3 +18,8 @@ _venv/
 
 # OS - specific
 .DS_Store
+
+# Project - specific
+dqn.yml
+logs/
+hub/
